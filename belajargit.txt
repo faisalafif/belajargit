@@ -1,1 +1,2 @@
-Helo saya sedang belajar git !!
+Helo saya sedang belajar git !! 
+hello saya belajar
